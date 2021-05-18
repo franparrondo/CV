@@ -84,14 +84,32 @@ img{
 /* ESTUDIOS */
 .estudios{
     padding: 8px;
-    margin: 18px;   
+    margin: 18px;  
+    
 }
 .estudios h3{
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
     font-size: 25px;
+    background-color: #f1eaf0;;
 }
 .estudios ul{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+.info{
+    padding: 8px;
+    margin: 18px;  
+    
+}
+.info h3{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    background-color: #f1eaf0;;
+}
+.info ul{
     font-family: 'Nunito', sans-serif;
     font-weight: 100;
     font-size: 20px;
@@ -105,25 +123,35 @@ img{
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
     font-size: 25px;
+    background-color: #f1eaf0;;
 }
 .explabo ul{
     font-family: 'Nunito', sans-serif;
     font-weight: 100;
     font-size: 20px;
 }
-.blabla{
+.premios{
     padding: 8px;
     margin: 18px;
 
 }
-.blabla h3{
+.premios h3{
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
     font-size: 25px;
+    background-color: #f1eaf0;
 }
-.blabla ul{
+.premios ul{
     font-family: 'Nunito', sans-serif;
     font-weight: 100;
     font-size: 20px;
 }
+.premios h4{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    font-size: 2Opx;
+    
+}
+
+
 
